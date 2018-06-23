@@ -1,4 +1,4 @@
-##RESTful APIs : Connect MySQL in PHP & MySQL using Slim Framework 3
+## RESTful APIs : Connect MySQL in PHP & MySQL using Slim Framework 3
 
 Create RESTful APIs using Slim framework PHP MySQL video tutorial series.  
 The Playlist is about creating RESTful APIs using PHP SLIM Framework, MySQL. You will learn

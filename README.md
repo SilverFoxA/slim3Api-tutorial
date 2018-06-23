@@ -20,9 +20,7 @@ Here are the steps to download composer : <a href="https://getcomposer.org/downl
 
 Once you have downloaded `composer`, create a project directory and navigate to the same
 
-<pre>
-mkdir <dir-name> && cd <dir-name>
-</pre>
+`mkdir <dir-name> && cd <dir-name>`
 
 And then install slim, official page : <a href="https://www.slimframework.com/">link</a>
 

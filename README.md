@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=uS9iaAIvDLE
 RESTful APIs : Develop  APIs using PHP, Slim Framework and MySQL for Android/IOS/Web
 https://www.youtube.com/watch?v=5qr9X1G57Qs
 
-
+### Installation
 To install slim, you must have `composer` installed. Official page : <a href="https://getcomposer.org/">link</a>
 
 Here are the steps to download composer : <a href="https://getcomposer.org/download/">link</a>
